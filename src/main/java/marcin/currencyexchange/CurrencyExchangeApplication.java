@@ -3,6 +3,9 @@ package marcin.currencyexchange;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * Author Marcin Kozij
+ */
 @SpringBootApplication
 public class CurrencyExchangeApplication {
 
